@@ -3,10 +3,33 @@ body{
     margin: 0;
     padding: 0;
     font-family: "Manrope", sans-serif;
+    font-size: 15px;
     width: 500px;
 }
 #git-header{
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+/* Section What is Git */
+.what-git{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background: #f7f7f5;
+}
+.git-img{
+    width: 800px;
+    margin: 5px auto 20px auto;
+}
+.box-git{
+    margin-left: -400px;
+    margin-bottom: 1px;
+}
+h2{
+ font-size: 30px;
+}
+p{
+    font-size: 20px;
 }
