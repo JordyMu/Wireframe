@@ -56,10 +56,10 @@ a{
 /* Section developer git section*/
 #git-section{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     margin: 10px auto 50px auto;
     padding: 20px;
-    width: 400px;
+    width: 400px; 
 }
 .img-section{
     padding: 0 14px;
@@ -89,4 +89,15 @@ h3{
 .why-git{
     padding: 20px;
     margin-top: 10px;
+}
+
+/* Why Git */
+.why-git-2{
+    display:block;
+    margin-top: 30px;
+}
+.btn-2:hover{
+    padding-right: 25px;
+    transition: 0.5s;
+    background-color: #f48c06;
 }
