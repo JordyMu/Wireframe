@@ -48,3 +48,8 @@ a{
     padding: 10px;
     margin-right: 690px;
 }
+.btn:hover{
+    padding-right: 25px;
+    transition: 0.5;
+    background-color: #f48c06;
+}
