@@ -101,3 +101,11 @@ h3{
     transition: 0.5s;
     background-color: #f48c06;
 }
+/*--- Footer ----*/
+.footer{
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+    background: #f4511e;
+    color: white;
+}
